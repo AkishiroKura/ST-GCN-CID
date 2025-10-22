@@ -11,7 +11,7 @@ This code was implemented by:
 - Mr. Li
 - Mr. Luo
 
-From the Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University.
+From the Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University and Department of Neurology,Chengdu Second People's Hospital.
 
 ## Usage Notice
 
